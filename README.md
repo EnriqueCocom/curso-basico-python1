@@ -9,5 +9,5 @@ En este curso aprenderás a programar en Python.
 - Computadora con Windows, Linux o MacOS.
 - Editor de texto como  [Visual Studio Code](https://code.visualstudio.com/).
 - Instalar [Git](https://git-scm.com/).
-soy chavillo <3
+
 - --------------------------------------------------------------------------
